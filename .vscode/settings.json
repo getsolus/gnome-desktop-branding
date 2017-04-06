@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"files.exclude": {
+		"**/Makefile": true,
+		"**/Makefile.in": true,
+		"**/aclocal.m4": true,
+		"**/autom4te.cache/**": true,
+		"**/config.log": true,
+		"**/config.status": true,
+		"**/install-sh": true,
+		"**/missing": true
+	}
+}
