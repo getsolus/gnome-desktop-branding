@@ -2,7 +2,6 @@ SUBDIRS = \
 	extensions
 
 LIVECD_SCHEMAS = \
-	com.solus-project.icon-tasklist.gschema.override \
 	com.solus-project.software-center.gschema.override \
 	org.gnome.desktop.screensaver.gschema.override \
 	org.gnome.shell.gschema.override
