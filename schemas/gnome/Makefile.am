@@ -1,9 +1,10 @@
 GNOME_SCHEMAS = \
 	org.gnome.desktop.background.gschema.override \
 	org.gnome.desktop.interface.gschema.override \
-	org.gnome.nautilus.icon-view.gschema.override \
 	org.gnome.desktop.wm.preferences.gschema.override \
-	org.gnome.settings-daemon.plugins.xsettings.gschema.override
+	org.gnome.nautilus.icon-view.gschema.override \
+	org.gnome.settings-daemon.plugins.xsettings.gschema.override \
+	org.gnome.shell.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;
@@ -19,7 +20,7 @@ overridesdir = \
 	$(datadir)/glib-2.0/schemas
 
 overrides_DATA = \
-	10_budgie_gnome_settings.gschema.override
+	10_gnome_settings.gschema.override
 
 distclean-local:
-	rm -fv ${top_builddir}/schemas/gnome/10_budgie_gnome_settings.gschema.override
+	rm -fv ${top_builddir}/schemas/gnome/10_gnome_settings.gschema.override
