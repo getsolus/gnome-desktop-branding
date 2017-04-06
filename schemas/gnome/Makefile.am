@@ -1,7 +1,8 @@
-SUBDIRS = \
-	extensions
-
 GNOME_SCHEMAS = \
+	extensions/org.gnome.shell.extensions.dash-to-dock.gschema.override \
+	extensions/org.gnome.shell.extensions.dynamic-panel-transparency.gschema.override \
+	extensions/org.gnome.shell.extensions.topicons.gschema.override \
+	extensions/org.gnome.shell.extensions.user-theme.gschema.override \
 	org.gnome.desktop.background.gschema.override \
 	org.gnome.desktop.interface.gschema.override \
 	org.gnome.desktop.wm.preferences.gschema.override \
