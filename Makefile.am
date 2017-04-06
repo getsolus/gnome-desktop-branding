@@ -1,0 +1,4 @@
+SUBDIRS = \
+	env \
+	icon \
+	schemas

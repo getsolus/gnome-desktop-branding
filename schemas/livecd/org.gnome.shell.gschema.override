@@ -1,0 +1,2 @@
+[org.gnome.shell]
+favorite-apps=['os-installer-gtk.desktop','firefox.desktop','hexchat.desktop','gnome-mpv.desktop','rhythmbox.desktop']
