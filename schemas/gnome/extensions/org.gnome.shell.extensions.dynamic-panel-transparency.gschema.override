@@ -1,0 +1,3 @@
+[org.gnome.shell.extensions.dynamic-panel-transparency]
+current-user-theme='Arc-Darker'
+transition-speed=500

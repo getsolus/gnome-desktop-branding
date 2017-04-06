@@ -1,5 +1,6 @@
 GNOME_SCHEMAS = \
-	org.gnome.shell.extensions.dash-to-dock.gschema.override
+	org.gnome.shell.extensions.dash-to-dock.gschema.override \
+	org.gnome.shell.extensions.dynamic-panel-transparency.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;
