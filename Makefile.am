@@ -1,4 +1,3 @@
 SUBDIRS = \
-	env \
 	icon \
 	schemas
