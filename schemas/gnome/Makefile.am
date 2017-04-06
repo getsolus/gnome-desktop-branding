@@ -1,3 +1,6 @@
+SUBDIRS = \
+	extensions
+
 GNOME_SCHEMAS = \
 	org.gnome.desktop.background.gschema.override \
 	org.gnome.desktop.interface.gschema.override \
