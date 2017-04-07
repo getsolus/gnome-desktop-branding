@@ -5,7 +5,6 @@ GNOME_SCHEMAS = \
 	org.gnome.nautilus.icon-view.gschema.override \
 	org.gnome.settings-daemon.plugins.xsettings.gschema.override \
 	org.gnome.shell.extensions.dash-to-dock.gschema.override \
-	org.gnome.shell.extensions.dynamic-panel-transparency.gschema.override \
 	org.gnome.shell.extensions.topicons.gschema.override \
 	org.gnome.shell.extensions.user-theme.gschema.override \
 	org.gnome.shell.gschema.override
