@@ -8,6 +8,7 @@
 		"**/config.log": true,
 		"**/config.status": true,
 		"**/install-sh": true,
-		"**/missing": true
+		"**/missing": true,
+		"**/*.tar.xz": true
 	}
 }

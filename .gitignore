@@ -13,3 +13,6 @@ missing
 
 # Priority 20, for livecd
 20_*.gschema.override
+
+# Tarballs
+*.tar.xz
