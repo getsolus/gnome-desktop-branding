@@ -1,3 +1,4 @@
 SUBDIRS = \
 	gnome \
-	livecd
+	livecd \
+	material
