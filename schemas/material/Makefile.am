@@ -11,7 +11,8 @@ MATERIAL_SCHEMAS = \
 	org.gnome.shell.extensions.dash-to-dock.gschema.override \
 	org.gnome.shell.extensions.topicons.gschema.override \
 	org.gnome.shell.extensions.user-theme.gschema.override \
-	org.gnome.shell.gschema.override
+	org.gnome.shell.gschema.override \
+	org.gtk.settings.file-chooser.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;
@@ -27,7 +28,7 @@ overridesdir = \
 	$(datadir)/glib-2.0/schemas
 
 overrides_DATA = \
-	20_gnome__material_settings.gschema.override
+	20_gnome_material_settings.gschema.override
 
 distclean-local:
 	rm -fv ${top_builddir}/schemas/gnome/20_gnome_material_settings.gschema.override

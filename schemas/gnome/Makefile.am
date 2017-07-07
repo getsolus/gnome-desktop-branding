@@ -1,5 +1,5 @@
 GNOME_SCHEMAS = \
-    com.worldwidemann.plotinus.gschema.override \
+	com.worldwidemann.plotinus.gschema.override \
 	org.gnome.desktop.background.gschema.override \
 	org.gnome.desktop.interface.gschema.override \
 	org.gnome.desktop.screensaver.gschema.override \
@@ -9,7 +9,8 @@ GNOME_SCHEMAS = \
 	org.gnome.shell.extensions.dash-to-dock.gschema.override \
 	org.gnome.shell.extensions.topicons.gschema.override \
 	org.gnome.shell.extensions.user-theme.gschema.override \
-	org.gnome.shell.gschema.override
+	org.gnome.shell.gschema.override \
+	org.gtk.settings.file-chooser.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;
