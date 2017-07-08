@@ -1,4 +1,4 @@
-AC_INIT([GNOME Desktop Branding], 6, [joshua@solus-project.com], [gnome-desktop-branding], [https://solus-project.com/])
+AC_INIT([GNOME Desktop Branding], 7, [joshua@solus-project.com], [gnome-desktop-branding], [https://solus-project.com/])
 AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects 1.9 tar-ustar])
 AC_PREFIX_DEFAULT(/usr/local)
 

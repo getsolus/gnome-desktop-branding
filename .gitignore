@@ -16,3 +16,4 @@ missing
 
 # Tarballs
 *.tar.xz
+*.tar.xz.asc

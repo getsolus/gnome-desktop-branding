@@ -1,4 +1,0 @@
-[org.gnome.settings-daemon.plugins.media-keys.custom-bindings.custom0]
-binding='<Primary><Alt>t'
-command='gnome-terminal'
-name='Gnome Terminal'
