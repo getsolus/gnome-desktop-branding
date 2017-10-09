@@ -1,0 +1,2 @@
+[org.gnome.nautilus.list-view]
+default-visible-columns=['name','size','date_modified','type']
