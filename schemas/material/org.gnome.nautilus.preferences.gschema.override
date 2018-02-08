@@ -1,2 +1,3 @@
 [org.gnome.nautilus.preferences]
+click-policy='single'
 show-create-link=true
