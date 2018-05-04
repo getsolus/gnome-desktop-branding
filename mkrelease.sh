@@ -5,7 +5,7 @@ git submodule init
 git submodule update
 
 # Script for ikey because he went with meson. *shrug*
-VERSION="12"
+VERSION="13"
 NAME="gnome-desktop-branding"
 git-archive-all.sh --format tar --prefix ${NAME}-${VERSION}/ --verbose -t HEAD ${NAME}-${VERSION}.tar
 xz -9 "${NAME}-${VERSION}.tar"
