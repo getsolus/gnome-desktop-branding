@@ -1,7 +1,7 @@
 project(
     'gnome-desktop-branding',
     ['c'],
-    version: '13',
+    version: '14',
     license: [
         'GPL-2.0',
     ],
