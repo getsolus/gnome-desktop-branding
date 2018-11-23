@@ -1,5 +1,4 @@
 material_schemas = [
-    'com.worldwidemann.plotinus.gschema.override',
     'org.gnome.desktop.background.gschema.override',
     'org.gnome.desktop.interface.gschema.override',
     'org.gnome.desktop.screensaver.gschema.override',
