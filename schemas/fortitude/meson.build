@@ -3,6 +3,7 @@ material_schemas = [
     'org.gnome.desktop.interface.gschema.override',
     'org.gnome.desktop.screensaver.gschema.override',
     'org.gnome.desktop.wm.preferences.gschema.override',
+    'org.gnome.gedit.preferences.editor.override',
     'org.gnome.nautilus.icon-view.gschema.override',
     'org.gnome.nautilus.list-view.gschema.override',
     'org.gnome.nautilus.preferences.gschema.override',
@@ -13,8 +14,8 @@ material_schemas = [
     'org.gnome.shell.gschema.override',
 ]
 
-custom_target('20_gnome_material_settings.gschema.override',
-    output: '20_gnome_material_settings.gschema.override',
+custom_target('30_gnome_fortitude_settings.gschema.override',
+    output: '30_gnome_fortitude_settings.gschema.override',
     capture: true,
     input: material_schemas,
     command: ['cat', '@INPUT@'],

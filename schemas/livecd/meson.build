@@ -4,8 +4,8 @@ livecd_schemas = [
     'org.gnome.shell.gschema.override',
 ]
 
-custom_target('30_gnome_livecd.gschema.override',
-    output: '30_gnome_livecd.gschema.override',
+custom_target('40_gnome_livecd.gschema.override',
+    output: '40_gnome_livecd.gschema.override',
     capture: true,
     input: livecd_schemas,
     command: ['cat', '@INPUT@'],
