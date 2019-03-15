@@ -1,4 +1,4 @@
 subdir('fortitude')
-subdir('gnome')
+subdir('legacy')
 subdir('livecd')
 subdir('material')
