@@ -1,9 +1,9 @@
 project(
     'gnome-desktop-branding',
     ['c'],
-    version: '14',
+    version: '15',
     license: [
-        'GPL-2.0',
+        'GPL-2.0-only',
     ],
     default_options: [
         'prefix=/usr',
