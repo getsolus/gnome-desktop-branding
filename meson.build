@@ -23,6 +23,7 @@ if path_envdir == ''
     path_envdir = join_paths(path_datadir, 'defaults', 'etc', 'profile.d')
 endif
 
+subdir('env')
 subdir('schemas')
 
 report = [
