@@ -1,7 +1,5 @@
 [org.gnome.shell.extensions.trayIconsReloaded]
-icon-opacity=255
 icon-saturation=0
 icon-size=16
 icon-spacing=16
-tray-order=2
-tray-pos='right'
+icons-limit=8

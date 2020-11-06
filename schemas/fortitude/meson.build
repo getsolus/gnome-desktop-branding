@@ -9,7 +9,7 @@ fortitude_schemas = [
     'org.gnome.nautilus.preferences.gschema.override',
     'org.gnome.settings-daemon.plugins.xsettings.gschema.override',
     'org.gnome.shell.extensions.dash-to-dock.gschema.override',
-    'org.gnome.shell.extensions.topicons.gschema.override',
+    'org.gnome.shell.extensions.trayIconsReloaded.gschema.override',
     'org.gnome.shell.extensions.user-theme.gschema.override',
     'org.gnome.shell.gschema.override',
     'org.gtk.settings.file-chooser.gschema.override',
