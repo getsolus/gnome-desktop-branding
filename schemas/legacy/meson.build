@@ -5,7 +5,6 @@ gnome_schemas = [
     'org.gnome.desktop.wm.preferences.gschema.override',
     'org.gnome.nautilus.icon-view.gschema.override',
     'org.gnome.settings-daemon.plugins.xsettings.gschema.override',
-    'org.gnome.shell.extensions.dash-to-dock.gschema.override',
     'org.gnome.shell.extensions.trayIconsReloaded.gschema.override',
     'org.gnome.shell.extensions.user-theme.gschema.override',
     'org.gnome.shell.gschema.override',

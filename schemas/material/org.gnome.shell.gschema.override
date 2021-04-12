@@ -1,3 +1,3 @@
 [org.gnome.shell]
-enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'impatience@gfxmonk.net', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'trayIconsReloaded@selfmade.pl', 'drive-menu@gnome-shell-extensions.gcampax.github.com']
+enabled-extensions=['impatience@gfxmonk.net', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'trayIconsReloaded@selfmade.pl', 'drive-menu@gnome-shell-extensions.gcampax.github.com']
 favorite-apps=['solus-sc.desktop','org.gnome.Nautilus.desktop','firefox.desktop','hexchat.desktop','rhythmbox.desktop','org.gnome.Photos.desktop','io.github.GnomeMpv.desktop']
