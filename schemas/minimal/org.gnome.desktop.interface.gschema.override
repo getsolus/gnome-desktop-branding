@@ -1,3 +1,8 @@
 [org.gnome.desktop.interface]
+document-font-name='Cantarell 11'
 font-antialiasing='rgba'
 font-hinting='slight'
+font-name='Cantarell 10'
+gtk-theme='Adwaita-dark'
+icon-theme='Papirus'
+monospace-font-name='Hack 10'
