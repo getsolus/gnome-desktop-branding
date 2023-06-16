@@ -1,6 +1,7 @@
 livecd_schemas = [
     'com.solus-project.software-center.gschema.override',
     'org.gnome.desktop.screensaver.gschema.override',
+    'org.gnome.login-screen.gschema.override',
     'org.gnome.shell.gschema.override',
 ]
 

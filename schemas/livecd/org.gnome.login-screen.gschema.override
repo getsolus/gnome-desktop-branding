@@ -1,0 +1,3 @@
+[org.gnome.login-screen]
+AutomaticLoginEnable=True
+AutomaticLogin=live
