@@ -1,5 +1,0 @@
-[org.gnome.nautilus.preferences]
-click-policy='single'
-recursive-search='local-only'
-show-create-link=true
-show-image-thumbnails='always'
