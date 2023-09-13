@@ -2,6 +2,7 @@ gnome_schemas = [
     'org.gnome.desktop.background.gschema.override',
     'org.gnome.desktop.interface.gschema.override',
     'org.gnome.desktop.screensaver.gschema.override',
+    'org.gnome.desktop.wm.keybindings.gschema.override',
     'org.gnome.desktop.wm.preferences.gschema.override',
     'org.gnome.gedit.preferences.editor.override',
     'org.gnome.nautilus.icon-view.gschema.override',
