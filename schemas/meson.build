@@ -7,7 +7,6 @@ gnome_schemas = [
     'org.gnome.nautilus.icon-view.gschema.override',
     'org.gnome.nautilus.list-view.gschema.override',
     'org.gnome.nautilus.preferences.gschema.override',
-    'org.gnome.shell.extensions.trayIconsReloaded.gschema.override',
     'org.gnome.shell.extensions.user-theme.gschema.override',
     'org.gnome.shell.gschema.override',
     'org.gtk.settings.file-chooser.gschema.override',
