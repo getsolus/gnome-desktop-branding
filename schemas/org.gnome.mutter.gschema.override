@@ -1,0 +1,2 @@
+[org.gnome.mutter]
+check-alive-timeout=10000
