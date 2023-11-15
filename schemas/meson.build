@@ -5,6 +5,7 @@ gnome_schemas = [
     'org.gnome.desktop.wm.keybindings.gschema.override',
     'org.gnome.desktop.wm.preferences.gschema.override',
     'org.gnome.gedit.preferences.editor.override',
+    'org.gnome.login-screen.override',
     'org.gnome.nautilus.icon-view.gschema.override',
     'org.gnome.nautilus.list-view.gschema.override',
     'org.gnome.nautilus.preferences.gschema.override',
