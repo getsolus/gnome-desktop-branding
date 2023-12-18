@@ -1,4 +1,5 @@
 [org.gnome.desktop.interface]
+clock-show-date=true
 color-scheme='prefer-dark'
 cursor-theme='breeze_cursors'
 document-font-name='Noto Sans 9'
