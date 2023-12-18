@@ -1,7 +1,9 @@
 gnome_schemas = [
     'org.gnome.desktop.background.gschema.override',
     'org.gnome.desktop.interface.gschema.override',
+    'org.gnome.desktop.peripherals.gschema.override',
     'org.gnome.desktop.screensaver.gschema.override',
+    'org.gnome.desktop.sound.gschema.override',
     'org.gnome.desktop.wm.keybindings.gschema.override',
     'org.gnome.desktop.wm.preferences.gschema.override',
     'org.gnome.gedit.preferences.editor.override',
