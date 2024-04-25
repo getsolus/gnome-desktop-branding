@@ -347,7 +347,7 @@ text/tab-separated-values=libreoffice-calc.desktop
 text/x-csv=libreoffice-calc.desktop
 
 # Other
-application/rtf=com.abisource.AbiWord.desktop
+application/rtf=libreoffice-writer.desktop
 application/x-abiword=com.abisource.AbiWord.desktop
 application/x-cd-image=gnome-disk-image-mounter.desktop
 application/x-dia-diagram=dia.desktop
@@ -358,8 +358,8 @@ application/x-font-type1=org.gnome.font-viewer.desktop
 application/x-raw-disk-image=gnome-disk-image-writer.desktop
 application/x-raw-disk-image-xz-compressed=gnome-disk-image-writer.desktop
 text/abiword=com.abisource.AbiWord.desktop
-text/richtext=com.abisource.AbiWord.desktop
-text/rtf=com.abisource.AbiWord.desktop
+text/richtext=libreoffice-writer.desktop
+text/rtf=libreoffice-writer.desktop
 text/x-abiword=com.abisource.AbiWord.desktop
 text/x-xml-abiword=com.abisource.AbiWord.desktop
 x-content/audio-cdda=org.gnome.SoundJuicer.desktop
