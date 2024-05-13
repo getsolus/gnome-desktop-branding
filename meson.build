@@ -39,6 +39,6 @@ report = [
 message('\n\n\n' + '\n'.join(report) + '\n\n')
 
 install_data(
-    'mimeapps.list',
+    'gnome-mimeapps.list',
     install_dir: join_paths(path_datadir, 'applications')
 )
