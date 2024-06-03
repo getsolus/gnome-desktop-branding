@@ -1,4 +1,4 @@
 [org.gnome.desktop.wm.preferences]
 button-layout='appmenu:minimize,maximize,close'
-theme='Adwaita-dark'
+theme='Adwaita'
 titlebar-font='Noto Sans Regular 11'
