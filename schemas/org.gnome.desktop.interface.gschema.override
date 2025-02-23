@@ -1,10 +1,10 @@
 [org.gnome.desktop.interface]
 clock-show-date=true
 cursor-theme='breeze_cursors'
-document-font-name='Noto Sans 9'
+document-font-name='Noto Sans 10'
 font-antialiasing='rgba'
 font-hinting='slight'
-font-name='Noto Sans 9'
+font-name='Noto Sans 10'
 gtk-theme='adw-gtk3'
-icon-theme='Papirus'
+icon-theme='MoreWaita'
 monospace-font-name='Hack 10'
