@@ -26,4 +26,5 @@ custom_target('30_gnome_settings.gschema.override',
     install_dir: path_schemadir,
 )
 
+subdir('gdm')
 subdir('livecd')
